@@ -1,0 +1,13 @@
+{
+  "name": "Maze Kids — генератор лабиринтов",
+  "short_name": "Maze Kids",
+  "description": "PWA приложение для генерации детских лабиринтов разных форм и сложности.",
+  "theme_color": "#101828",
+  "background_color": "#f7f7fb",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "/",
+  "icons": [
+    { "src": "/icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
